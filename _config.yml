@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Manuel Schechtl"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Manuel Schechtl"
+# name                     : "Manuel Schechtl"
 description              : "An amazing website."
 url                      : "https://schechtm.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Manuel Schechtl"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "\\husowi28c.user.hu-berlin.de\SowiHome\schechtm\Eigene Dateien\PhD_Orga\schechtl_image.png"
   bio              : "Social scientist at Humboldt-University Berlin"
   location         : "Berlin, Germany"
   email            : manuel.schechtl@hu-berlin.de
@@ -116,7 +116,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: https://twitter.com/SchechtlM
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
