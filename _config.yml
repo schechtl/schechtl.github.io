@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Website of Manuel Schechtl who is a social scientist at Humboldt-University Berlin.
 twitter_username: SchechtlM
 github_username: schechtm
-minimal_mistakes_skin: dirt
+minimal_mistakes_skin: air # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: false
 
 # Build settings
