@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : " "
-  avatar : "/assets/images/schechtl_image.png"
+  avatar : "/assets/schechtl_image.png"
   bio    : "Social scientist at Humboldt-University Berlin"
   links:
     - label: "Twitter"
