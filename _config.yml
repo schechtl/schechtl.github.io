@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Manuel Schechtl"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Manuel Schechtl"
 description              : "An amazing website."
 url                      : "https://schechtm.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -79,7 +79,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               :SchechtlM
 facebook:
   username               :
   app_id                 :
@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Manuel Schechtl"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Social scientist at Humboldt-University Berlin"
+  location         : "Berlin, Germany"
+  email            : manuel.schechtl@hu-berlin.de
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "manuel.schechtl@hu-berlin.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
