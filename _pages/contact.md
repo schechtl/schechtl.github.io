@@ -4,6 +4,7 @@ title: "Contact"
 ---
 
 Manuel Schechtl
+
 Department of Social Sciences  
 Humboldt-Universität zu Berlin  
 Unter den Linden 6  
