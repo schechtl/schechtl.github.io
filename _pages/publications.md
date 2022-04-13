@@ -3,7 +3,7 @@ permalink: /publications/
 title: "Publications"
 ---
 
-Journal Articles
+**Journal Articles**
 
 2022 Schechtl, Manuel: Taking from the Disadvantaged? Consumption Tax Induced Poverty Across Household Types in Eleven OECD Countries, in: Social Policy and Society, 1-15, https://doi.org/10.1017/S1474746422000203.
 2021 Schechtl, Manuel: The Taxation of Families: How Gendered (De)Familialization Tax Policies Modify Horizontal Income Inequality, in: Journal of Social Policy, 1-22, https://doi.org/10.1017/S0047279421000404.}
