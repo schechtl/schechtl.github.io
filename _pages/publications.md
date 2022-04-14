@@ -21,6 +21,6 @@ Schechtl, Manuel: Politische Utopie im 21. Jahrhundert am Beispiel von Wolfgang 
 
 ## Working Papers
 
-Schechtl, Manuel & O'Brien, Rourke: Fiscal Impoverishment in Rich Democracies, in: *LIS Working Paper Series*, No. 831. [PDF](/assets/Schechtl_Fiscal Impoverishment in Rich Democracies.pdf)
+Schechtl, Manuel & O'Brien, Rourke: Fiscal Impoverishment in Rich Democracies, in: *LIS Working Paper Series*, No. 831. | [PDF](/assets/Schechtl_Fiscal Impoverishment in Rich Democracies.pdf)
 
-Schechtl, Manuel: Inheritance Taxation in Comparative Perspective, in: *LWS Working Paper Series*, No. 35. [PDF](/assets/Schechtl_Inheritance Taxation in Comparative Perspective.pdf)
+Schechtl, Manuel: Inheritance Taxation in Comparative Perspective, in: *LWS Working Paper Series*, No. 35. | [PDF](/assets/Schechtl_Inheritance Taxation in Comparative Perspective.pdf)
