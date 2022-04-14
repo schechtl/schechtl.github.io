@@ -9,6 +9,7 @@ classes: wide
 #### 2022
 
 Schechtl, Manuel: Taking from the Disadvantaged? Consumption Tax Induced Poverty Across Household Types in Eleven OECD Countries, in: *Social Policy and Society*, 1-15. doi: [10.1017/S1474746422000203](https://doi.org/10.1017/S1474746422000203)
+[PDF](/assets/Schechtl_Taking from the Disadvantaged.pdf)
 
 #### 2021
 
