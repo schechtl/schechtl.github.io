@@ -58,7 +58,7 @@ plugins:
 author:
   name   : " "
   avatar : "/assets/schechtl_image.png"
-  bio    : "Social scientist at Humboldt-University Berlin"
+  bio    : "Social scientist at The Graduate Center"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
