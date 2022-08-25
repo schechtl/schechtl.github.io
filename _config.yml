@@ -81,6 +81,7 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
 
+show_frame: true           # adds a gray frame to the site
 defaults:
   # _posts
   - scope:
