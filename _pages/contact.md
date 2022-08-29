@@ -18,5 +18,3 @@ City University of New York
 ___________________________________
  
 **Email:** mschechtl (at) gc.cuny.edu 
-
-**Phone:** 
