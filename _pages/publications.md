@@ -8,6 +8,8 @@ classes: wide
 
 #### 2022
 
+Kapelle, Nicole/Nutz, Theresa/Tisch, Daria/Schechtl, Manuel/Lersch, Philipp M./Struffolino, Emanuela: My Wealth, (Y) Our Life Satisfaction? Sole and Joint Wealth Ownership and Life Satisfaction in Marriage, in: *European Journal of Population*, 1-24. doi: [10.1007/s10680-022-09630-7](https://doi.org/10.1007/s10680-022-09630-7) | [PDF](/assets/Schechtl_Team_My Wealth Your Life Satisfaction.pdf)
+
 Schechtl, Manuel: Taking from the Disadvantaged? Consumption Tax Induced Poverty Across Household Types in Eleven OECD Countries, in: *Social Policy and Society*, 1-15. doi: [10.1017/S1474746422000203](https://doi.org/10.1017/S1474746422000203) | [PDF](/assets/Schechtl_Taking from the Disadvantaged.pdf)
 
 #### 2021
