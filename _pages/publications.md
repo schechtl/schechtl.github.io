@@ -13,17 +13,17 @@ Schechtl, Manuel/Tisch, Daria: Tax principles, policy feedback and self-interest
 
 #### 2022
 
-Kapelle, Nicole/Nutz, Theresa/Tisch, Daria/Schechtl, Manuel/Lersch, Philipp M./Struffolino, Emanuela: My Wealth, (Y) Our Life Satisfaction? Sole and Joint Wealth Ownership and Life Satisfaction in Marriage, in: *European Journal of Population*, 1-24. doi: [10.1007/s10680-022-09630-7](https://doi.org/10.1007/s10680-022-09630-7) | [PDF](/assets/Schechtl_Team_My Wealth Your Life Satisfaction.pdf)
+Kapelle, Nicole/Nutz, Theresa/Tisch, Daria/Schechtl, Manuel/Lersch, Philipp M./Struffolino, Emanuela: My Wealth, (Y) Our Life Satisfaction? Sole and Joint Wealth Ownership and Life Satisfaction in Marriage, in: **_European Journal of Population_**, 1-24. doi: [10.1007/s10680-022-09630-7](https://doi.org/10.1007/s10680-022-09630-7) | [PDF](/assets/Schechtl_Team_My Wealth Your Life Satisfaction.pdf)
 
-Schechtl, Manuel: Taking from the Disadvantaged? Consumption Tax Induced Poverty Across Household Types in Eleven OECD Countries, in: *Social Policy and Society*, 1-15. doi: [10.1017/S1474746422000203](https://doi.org/10.1017/S1474746422000203) | [PDF](/assets/Schechtl_Taking from the Disadvantaged.pdf)
+Schechtl, Manuel: Taking from the Disadvantaged? Consumption Tax Induced Poverty Across Household Types in Eleven OECD Countries, in: **_Social Policy and Society_**, 1-15. doi: [10.1017/S1474746422000203](https://doi.org/10.1017/S1474746422000203) | [PDF](/assets/Schechtl_Taking from the Disadvantaged.pdf)
 
 #### 2021
 
-Schechtl, Manuel: The Taxation of Families: How Gendered (De)Familialization Tax Policies Modify Horizontal Income Inequality, in: *Journal of Social Policy*, 1-22. doi: [10.1017/S0047279421000404](https://doi.org/10.1017/S0047279421000404) | [PDF](/assets/Schechtl_The Taxation of Families.pdf)
+Schechtl, Manuel: The Taxation of Families: How Gendered (De)Familialization Tax Policies Modify Horizontal Income Inequality, in: **_Journal of Social Policy_**, 1-22. doi: [10.1017/S0047279421000404](https://doi.org/10.1017/S0047279421000404) | [PDF](/assets/Schechtl_The Taxation of Families.pdf)
 
 #### 2016
 
-Schechtl, Manuel: Politische Utopie im 21. Jahrhundert am Beispiel von Wolfgang Streecks Gefkaufte Zeit, in: *Soziologiemagazin*, 9(1), 23-37. doi: [10.3224/soz.v9i1.24668](https://doi.org/10.3224/soz.v9i1.24668) | [PDF](/assets/Schechtl_Politische Utopie im 21 Jahrhundert.pdf)
+Schechtl, Manuel: Politische Utopie im 21. Jahrhundert am Beispiel von Wolfgang Streecks Gefkaufte Zeit, in: **_Soziologiemagazin_**, 9(1), 23-37. doi: [10.3224/soz.v9i1.24668](https://doi.org/10.3224/soz.v9i1.24668) | [PDF](/assets/Schechtl_Politische Utopie im 21 Jahrhundert.pdf)
 
 
 ## Working Papers
