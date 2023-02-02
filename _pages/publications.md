@@ -9,7 +9,7 @@ classes: wide
 #### 2023
 
 
-Schechtl, Manuel/Tisch, Daria: Tax principles, policy feedback and self-interest: cross-national experimental evidence on wealth tax preferences, in: *Socio-Economic Review*, 1-22. doi: [10.1093/ser/mwac071](https://doi.org/10.1093/ser/mwac071) | [PDF](/assets/Schechtl_wealth_tax_preferences.pdf)
+Schechtl, Manuel/Tisch, Daria: Tax principles, policy feedback and self-interest: cross-national experimental evidence on wealth tax preferences, in: **_Socio-Economic Review_**, 1-22. doi: [10.1093/ser/mwac071](https://doi.org/10.1093/ser/mwac071) | [PDF](/assets/Schechtl_wealth_tax_preferences.pdf)
 
 #### 2022
 
