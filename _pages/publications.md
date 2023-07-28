@@ -19,7 +19,7 @@ Schechtl, Manuel: Taking from the Disadvantaged? Consumption Tax Induced Poverty
 
 #### 2021
 
-Schechtl, Manuel: The Taxation of Families: How Gendered (De)Familialization Tax Policies Modify Horizontal Income Inequality, in: **_Journal of Social Policy_**, 1-22. doi: [10.1017/S0047279421000404](https://doi.org/10.1017/S0047279421000404) | [PDF](/assets/Schechtl_The Taxation of Families.pdf)
+Schechtl, Manuel: The Taxation of Families: How Gendered (De)Familialization Tax Policies Modify Horizontal Income Inequality, in: **Journal of Social Policy**, 1-22. doi: [10.1017/S0047279421000404](https://doi.org/10.1017/S0047279421000404) | [PDF](/assets/Schechtl_The Taxation of Families.pdf)
 
 
 
