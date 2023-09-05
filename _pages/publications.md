@@ -9,7 +9,7 @@ classes: wide
 #### 2023
 
 
-Schechtl, Manuel & O'Brien, Rourke: Fiscal Impoverishment in Rich Democracies, in: **Social Forces**, accepted. | [PDF WP](/assets/Schechtl_Fiscal Impoverishment in Rich Democracies.pdf)
+Schechtl, Manuel/O'Brien, Rourke: Fiscal Impoverishment in Rich Democracies, in: **Social Forces**, accepted. | [PDF WP](/assets/Schechtl_Fiscal Impoverishment in Rich Democracies.pdf)
 
 Schechtl, Manuel/Nicole Kapelle: The Male Marital Premium Contextualized: Longitudinal Evidence from the United States, Germany, and the United Kingdom, in **Journal of Marriage and Family**, 1-23. doi: [10.1111/jomf.12937](https://doi.org/10.1111/jomf.12937) | [PDF](/assets/Schechtl_marital_premium.pdf)
 
@@ -27,4 +27,8 @@ Schechtl, Manuel: Taking from the Disadvantaged? Consumption Tax Induced Poverty
 
 ## Working Papers
 
-Schechtl, Manuel: Inheritance Taxation in Comparative Perspective, in: *LWS Working Paper Series*, No. 35. | [PDF](/assets/Schechtl_Inheritance Taxation in Comparative Perspective.pdf)
+Tisch, Daria/Schechtl, Manuel: The Gender (Tax) Gap in Parental Transfers. Evidence from Administrative Inheritance and Gift Tax Data, *Stone Center Working Paper Series*, No. 68. doi: [10.31235/osf.io/kfetw](https://doi.org/10.31235/osf.io/kfetw) | [PDF](/assets/Schechtl_Taking from the Disadvantaged.pdf)
+
+https://doi.org/10.31235/osf.io/kfetw ![image](https://github.com/schechtl/schechtl.github.io/assets/101650700/228e2167-dae4-4d79-b7a3-f20af028785c)
+
+Schechtl, Manuel: Inheritance Taxation in Comparative Perspective, in: *LWS Working Paper Series*, No. 35. | [PDF](/assets/Schechtl_TheGender(Tax)GapinParentalTransfers.pdf)
