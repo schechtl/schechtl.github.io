@@ -9,7 +9,7 @@ classes: wide
 #### 2023
 
 
-Schechtl, Manuel/O'Brien, Rourke: Fiscal Impoverishment in Rich Democracies, in: **Social Forces**, accepted. | [PDF WP](/assets/Schechtl_Fiscal Impoverishment in Rich Democracies.pdf)
+Schechtl, Manuel/O'Brien, Rourke: Fiscal Impoverishment in Rich Democracies, in: **Social Forces**, 1-20. doi: [10.1093/sf/soad133](https://doi.org/10.1093/sf/soad133) | [PDF](/assets/Schechtl_Fiscal impoverishment in rich democracies.pdf)
 
 Schechtl, Manuel/Nicole Kapelle: The Male Marital Premium Contextualized: Longitudinal Evidence from the United States, Germany, and the United Kingdom, in **Journal of Marriage and Family**, 1-23. doi: [10.1111/jomf.12937](https://doi.org/10.1111/jomf.12937) | [PDF](/assets/Schechtl_marital_premium.pdf)
 
