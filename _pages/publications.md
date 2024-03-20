@@ -27,6 +27,7 @@ Schechtl, Manuel: Taking from the Disadvantaged? Consumption Tax Induced Poverty
 
 
 ## Working Papers
+Schechtl, Manuel: Wealth Inequality and Intergenerational Income Mobility in the United States, in: *OSF Preprints*, March 20. doi: [10.31219/osf.io/yjvru](https://doi.org/10.31219/osf.io/yjvru) | [PDF](/assets/schechtl_wealth_inequality_income_mobility_WP_v1)
 
 Morelli, Salvatore, Asher, Twisha, Di Biase, Frincasco, Disslbacher, Franziska, Flores, Ignacio, Johnson, Adam, Rella, Giacomo, Schechtl, Manuel, Subioli, Francesca, Targa, Matteo: The GC Wealth Project Data Warehouse v.1 – Documentation, *Stone Center Working Paper Series*, No. 75, doi: [10.31235/osf.io/ta67n](https://doi.org/10.31235/osf.io/ta67n) | [PDF](/assets/Schechtl_gcwealth_documentation.pdf)
 
