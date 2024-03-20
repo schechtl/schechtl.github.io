@@ -6,12 +6,13 @@ classes: wide
 
 ## Journal Articles
 
+#### 2024
+
+Schechtl, Manuel/Nicole Kapelle: The Male Marital Premium Contextualized: Longitudinal Evidence from the United States, Germany, and the United Kingdom, in **Journal of Marriage and Family**, 86(1), 176-198. doi: [10.1111/jomf.12937](https://doi.org/10.1111/jomf.12937) | [PDF](/assets/Schechtl_marital_premium.pdf)
+
 #### 2023
 
-
 Schechtl, Manuel/O'Brien, Rourke: Fiscal Impoverishment in Rich Democracies, in: **Social Forces**, 1-20. doi: [10.1093/sf/soad133](https://doi.org/10.1093/sf/soad133) | [PDF](/assets/Schechtl_Fiscal impoverishment in rich democracies.pdf)
-
-Schechtl, Manuel/Nicole Kapelle: The Male Marital Premium Contextualized: Longitudinal Evidence from the United States, Germany, and the United Kingdom, in **Journal of Marriage and Family**, 1-23. doi: [10.1111/jomf.12937](https://doi.org/10.1111/jomf.12937) | [PDF](/assets/Schechtl_marital_premium.pdf)
 
 Schechtl, Manuel/Tisch, Daria: Tax principles, policy feedback and self-interest: cross-national experimental evidence on wealth tax preferences, in: **Socio-Economic Review**, 1-22. doi: [10.1093/ser/mwac071](https://doi.org/10.1093/ser/mwac071) | [PDF](/assets/Schechtl_wealth_tax_preferences.pdf)
 
@@ -26,6 +27,8 @@ Schechtl, Manuel: Taking from the Disadvantaged? Consumption Tax Induced Poverty
 
 
 ## Working Papers
+
+Morelli, Salvatore, Asher, Twisha, Di Biase, Frincasco, Disslbacher, Franziska, Flores, Ignacio, Johnson, Adam, Rella, Giacomo, Schechtl, Manuel, Subioli, Francesca, Targa, Matteo: The GC Wealth Project Data Warehouse v.1 – Documentation, *Stone Center Working Paper Series*, No. 75, doi: [10.31235/osf.io/ta67n](https://doi.org/10.31235/osf.io/ta67n) | [PDF](/assets/Schechtl_gcwealth_documentation.pdf)
 
 Tisch, Daria/Schechtl, Manuel: The Gender (Tax) Gap in Parental Transfers. Evidence from Administrative Inheritance and Gift Tax Data, *Stone Center Working Paper Series*, No. 68. doi: [10.31235/osf.io/kfetw](https://doi.org/10.31235/osf.io/kfetw) | [PDF](/assets/Schechtl_TheGender(Tax)GapinParentalTransfers.pdf)
 
