@@ -6,6 +6,8 @@ classes: wide
 
 ## Journal Articles
 
+Tisch, Daria/Schechtl, Manuel (2024): The Gender (Tax) Gap in Parental Transfers. Evidence from Administrative Inheritance and Gift Tax Data, **Socio-Economic Review**, 1-24. doi: [10.1093/ser/mwae038](https://doi.org/10.1093/ser/mwae038) | [PDF](/assets/Schechtl_the_gender_tax_gap_in_parental_transfers.pdf)
+
 Schechtl, Manuel/O'Brien, Rourke (2024): Fiscal Impoverishment in Rich Democracies, in: **Social Forces**, 102(4), 1249-1268. doi: [10.1093/sf/soad133](https://doi.org/10.1093/sf/soad133) | [PDF](/assets/Schechtl_Fiscal impoverishment in rich democracies.pdf)
 
 Schechtl, Manuel/Nicole Kapelle (2024): The Male Marital Premium Contextualized: Longitudinal Evidence from the United States, Germany, and the United Kingdom, in: **Journal of Marriage and Family**, 86(1), 176-198. doi: [10.1111/jomf.12937](https://doi.org/10.1111/jomf.12937) | [PDF](/assets/Schechtl_marital_premium.pdf)
@@ -25,7 +27,5 @@ Schechtl, Manuel (2022): Taking from the Disadvantaged? Consumption Tax Induced 
 Schechtl, Manuel: Wealth Inequality and Intergenerational Income Mobility in the United States, in: *OSF Preprints*, March 20. doi: [10.31219/osf.io/yjvru](https://doi.org/10.31219/osf.io/yjvru) | [PDF](/assets/schechtl_wealth_inequality_income_mobility_WP_v1.pdf)
 
 Morelli, Salvatore, Asher, Twisha, Di Biase, Frincasco, Disslbacher, Franziska, Flores, Ignacio, Johnson, Adam, Rella, Giacomo, Schechtl, Manuel, Subioli, Francesca, Targa, Matteo: The GC Wealth Project Data Warehouse v.1 – Documentation, *Stone Center Working Paper Series*, No. 75, doi: [10.31235/osf.io/ta67n](https://doi.org/10.31235/osf.io/ta67n) | [PDF](/assets/Schechtl_gcwealth_documentation.pdf)
-
-Tisch, Daria/Schechtl, Manuel: The Gender (Tax) Gap in Parental Transfers. Evidence from Administrative Inheritance and Gift Tax Data, *Stone Center Working Paper Series*, No. 68. doi: [10.31235/osf.io/kfetw](https://doi.org/10.31235/osf.io/kfetw) | [PDF](/assets/Schechtl_TheGender(Tax)GapinParentalTransfers.pdf)
 
 Schechtl, Manuel: Inheritance Taxation in Comparative Perspective, in: *LWS Working Paper Series*, No. 35. | [PDF](/assets/Schechtl_Inheritance Taxation in Comparative Perspective.pdf)
