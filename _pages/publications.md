@@ -10,7 +10,7 @@ Tisch, Daria/Schechtl, Manuel (2024): The Gender (Tax) Gap in Parental Transfers
 
 Schechtl, Manuel/O'Brien, Rourke (2024): Fiscal Impoverishment in Rich Democracies, in: **Social Forces**, 102(4), 1249-1268. doi: [10.1093/sf/soad133](https://doi.org/10.1093/sf/soad133) | [PDF](/assets/Schechtl_Fiscal impoverishment in rich democracies.pdf)
 
-Schechtl, Manuel/Waitkus, Nora (2024): Where Income Becomes Wealth: How Redistribution Moderates the Association between Income and Wealth, in: **Socius**, 10, 1-13. doi: [10.1177/237802312412615](https://doi.org/10.1177/237802312412615) | [PDF](/assets/schechtl-waitkus-2024-where-income-becomes-wealth.pdf)
+Schechtl, Manuel/Waitkus, Nora (2024): Where Income Becomes Wealth: How Redistribution Moderates the Association between Income and Wealth, in: **Socius**, 10, 1-13. doi: [10.1177/23780231241261599](https://doi.org/10.1177/23780231241261599) | [PDF](/assets/schechtl-waitkus-2024-where-income-becomes-wealth.pdf)
 
 Schechtl, Manuel/Nicole Kapelle (2024): The Male Marital Premium Contextualized: Longitudinal Evidence from the United States, Germany, and the United Kingdom, in: **Journal of Marriage and Family**, 86(1), 176-198. doi: [10.1111/jomf.12937](https://doi.org/10.1111/jomf.12937) | [PDF](/assets/Schechtl_marital_premium.pdf)
 
