@@ -16,7 +16,7 @@
 title: Manuel Schechtl
 email: mschechtl@gc.cuny.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Website of Manuel Schechtl who is a social scientist at The Graduate Center.
+  Website of Manuel Schechtl who is a social scientist at UNC-Chapel Hill.
 twitter_username: SchechtlM
 github_username: schechtl
 google_analytics: G-5SX2FKB09V
@@ -76,7 +76,7 @@ author:
       url: " https://orcid.org/0000-0002-1338-6833"  
     - label: "Institutional website"
       icon: "fa fa-link"
-      url: "https://stonecenter.gc.cuny.edu/people/schechtl-manuel/"
+      url: "https://publicpolicy.unc.edu/person/schechtl-manuel/"
 
 footer:
   links:
