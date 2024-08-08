@@ -6,7 +6,7 @@ classes: wide
 
 ## Journal Articles
 
-O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2024): Fiscal Centralization and Spatial Inequality in Economic Mobility in the U.S., **American Sociological Review**, forthcoming.
+O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2024): Fiscal Centralization and Spatial Inequality in Economic Mobility in the U.S., **American Sociological Review**, forthcoming. doi: []() | [PDF]()
 
 Tisch, Daria/Schechtl, Manuel (2024): The Gender (Tax) Gap in Parental Transfers. Evidence from Administrative Inheritance and Gift Tax Data, **Socio-Economic Review**, 1-24. doi: [10.1093/ser/mwae038](https://doi.org/10.1093/ser/mwae038) | [PDF](/assets/Schechtl_the_gender_tax_gap_in_parental_transfers.pdf)
 
