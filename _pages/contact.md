@@ -5,16 +5,14 @@ title: "Contact"
 
 Manuel Schechtl
 
-Stone-Center on Socio-Economic Inequality
+Department of Public Policy
 
-The Graduate Center
+University of North Carolina at Chapel Hill
 
-City University of New York
+131 South Columbia St.
 
-365 Fifth Avenue
-
-10016 New York, NY
+Chapel Hill, NC 27514 
 
 ___________________________________
  
-**Email:** mschechtl (at) gc.cuny.edu 
+**Email:** schechtl (at) unc.edu 
