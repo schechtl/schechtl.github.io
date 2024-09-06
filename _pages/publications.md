@@ -8,7 +8,7 @@ classes: wide
 
 O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2024): Fiscal Centralization and Spatial Inequality in Economic Mobility in the U.S., **American Sociological Review**, forthcoming. doi: []() | [PDF]()
 
-Schechtl, Manuel/O'Brien, Rourke (2024): Municipal Police and the Economic Mobility Gap Between Black and White Males in the U.S., **Research in Social Stratification and Mobility**, forthcoming. doi: []() | [PDF]()
+Schechtl, Manuel/O'Brien, Rourke (2024): Municipal Police and the Economic Mobility Gap Between Black and White Males in the U.S., **Research in Social Stratification and Mobility**, 93, 100981. doi: [10.1016/j.rssm.2024.100981](https://doi.org/10.1016/j.rssm.2024.100981) | [PDF](/assets/Schechtl_municipal_police_mobility.pdf)
 
 Tisch, Daria/Schechtl, Manuel (2024): The Gender (Tax) Gap in Parental Transfers. Evidence from Administrative Inheritance and Gift Tax Data, **Socio-Economic Review**, 1-24. doi: [10.1093/ser/mwae038](https://doi.org/10.1093/ser/mwae038) | [PDF](/assets/Schechtl_the_gender_tax_gap_in_parental_transfers.pdf)
 
