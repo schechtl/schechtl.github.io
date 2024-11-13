@@ -62,7 +62,7 @@ author:
   avatar : "/assets/schechtl_headshot_2024.jpeg"
   bio    : ""
   links:
-    - label: "Twitter"
+    - label: "Bluesky"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://bsky.app/profile/schechtlm.bsky.social"
     - label: "OSF"
