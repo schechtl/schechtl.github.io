@@ -24,11 +24,11 @@ Schechtl, Manuel/Nicole Kapelle (2024): The Male Marital Premium Contextualized:
 
 Schechtl, Manuel/Tisch, Daria (2024): Tax principles, policy feedback and self-interest: cross-national experimental evidence on wealth tax preferences, in: **Socio-Economic Review**, 22(1), 279-300. doi: [10.1093/ser/mwac071](https://doi.org/10.1093/ser/mwac071) | [PDF](/assets/Schechtl_wealth_tax_preferences.pdf)
 
-### 2023
+#### 2023
 
 Schechtl, Manuel (2023): The Taxation of Families: How Gendered (De)Familialization Tax Policies Modify Horizontal Income Inequality, in: **Journal of Social Policy**, 52(1), 63-84. doi: [10.1017/S0047279421000404](https://doi.org/10.1017/S0047279421000404) | [PDF](/assets/Schechtl_The Taxation of Families.pdf)
 
-### 2022
+#### 2022
 
 Kapelle, Nicole/Nutz, Theresa/Tisch, Daria/Schechtl, Manuel/Lersch, Philipp M./Struffolino, Emanuela (2022): My Wealth, (Y) Our Life Satisfaction? Sole and Joint Wealth Ownership and Life Satisfaction in Marriage, in: **European Journal of Population**, 38, 811-834. doi: [10.1007/s10680-022-09630-7](https://doi.org/10.1007/s10680-022-09630-7) | [PDF](/assets/Schechtl_Team_My Wealth Your Life Satisfaction.pdf)
 
