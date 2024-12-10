@@ -6,7 +6,7 @@ classes: wide
 
 ## Journal Articles
 
-# 2024
+### 2024
 
 O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2024): Fiscal Centralization and Spatial Inequality in Economic Mobility in the U.S., **American Sociological Review**, forthcoming. doi: []() | [PDF]()
 
