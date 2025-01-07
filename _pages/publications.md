@@ -6,9 +6,11 @@ classes: wide
 
 ## Journal Articles
 
-#### 2024
+#### 2025
 
-O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2024): Fiscal Centralization and Spatial Inequality in Economic Mobility in the U.S., **American Sociological Review**, forthcoming. doi: []() | [PDF]()
+O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2025): Fiscal Centralization and Inequality in Children’s Economic Mobility, **American Sociological Review**, forthcoming. doi: [10.1177/00031224241303459](https://doi.org/10.1177/00031224241303459) | [PDF](assets/Schechtl_2025_fiscal_centralization.pdf)
+
+#### 2024
 
 Schechtl, Manuel/Haupt, Andreas (2024): The payroll tax contribution limit and women's labor market outcomes, **Journal of Marriage and Family**, 1-19. doi: [10.1111/jomf.13055](https://doi.org/10.1111/jomf.13055) | [PDF](/assets/Schechtl_the payroll tax contribution limit and womens labor market outcomes.pdf)
 
