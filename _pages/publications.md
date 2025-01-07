@@ -8,7 +8,7 @@ classes: wide
 
 #### 2025
 
-O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2025): Fiscal Centralization and Inequality in Children’s Economic Mobility, **American Sociological Review**, forthcoming. doi: [10.1177/00031224241303459](https://doi.org/10.1177/00031224241303459) | [PDF](assets/Schechtl_2025_fiscal_centralization.pdf)
+O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2025): Fiscal Centralization and Inequality in Children’s Economic Mobility, **American Sociological Review**, 1-28. doi: [10.1177/00031224241303459](https://doi.org/10.1177/00031224241303459) | [PDF](/assets/Schechtl_2025_fiscal_centralization.pdf)
 
 #### 2024
 
