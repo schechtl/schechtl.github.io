@@ -8,11 +8,11 @@ classes: wide
 
 #### 2025
 
-O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2025): Fiscal Centralization and Inequality in Children’s Economic Mobility, **American Sociological Review**, 1-28. doi: [10.1177/00031224241303459](https://doi.org/10.1177/00031224241303459) | [PDF](/assets/Schechtl_2025_fiscal_centralization.pdf)
+O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2025): Fiscal Centralization and Inequality in Children’s Economic Mobility, **American Sociological Review**, 90(1), 114-141. doi: [10.1177/00031224241303459](https://doi.org/10.1177/00031224241303459) | [PDF](/assets/Schechtl_2025_fiscal_centralization.pdf)
+
+Schechtl, Manuel/Haupt, Andreas (2025): The payroll tax contribution limit and women's labor market outcomes, **Journal of Marriage and Family**, 87, 617-635. doi: [10.1111/jomf.13055](https://doi.org/10.1111/jomf.13055) | [PDF](/assets/Schechtl_the payroll tax contribution limit and womens labor market outcomes.pdf)
 
 #### 2024
-
-Schechtl, Manuel/Haupt, Andreas (2024): The payroll tax contribution limit and women's labor market outcomes, **Journal of Marriage and Family**, 1-19. doi: [10.1111/jomf.13055](https://doi.org/10.1111/jomf.13055) | [PDF](/assets/Schechtl_the payroll tax contribution limit and womens labor market outcomes.pdf)
 
 Schechtl, Manuel/O'Brien, Rourke (2024): Municipal Police and the Economic Mobility Gap Between Black and White Males in the U.S., **Research in Social Stratification and Mobility**, 93, 100981. doi: [10.1016/j.rssm.2024.100981](https://doi.org/10.1016/j.rssm.2024.100981) | [PDF](/assets/Schechtl_municipal_police_mobility.pdf)
 
