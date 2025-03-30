@@ -7,6 +7,7 @@ classes: wide
 ## Journal Articles
 
 #### 2025
+O'Brien, Rourke/Schechtl, Manuel/Manduca, Robert/Venkataramani, Atheendar (2025): Local government expenditure centralization and spatial variation in working-age mortality, **SSM Population Health**, 30, 114-141. doi: [10.1016/j.ssmph.2025.101791](https://doi.org/10.1016/j.ssmph.2025.101791) | [PDF](/assets/Schechtl_SSMPH_Centralization_Mortality.pdf)
 
 O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2025): Fiscal Centralization and Inequality in Children’s Economic Mobility, **American Sociological Review**, 90(1), 114-141. doi: [10.1177/00031224241303459](https://doi.org/10.1177/00031224241303459) | [PDF](/assets/Schechtl_2025_fiscal_centralization.pdf)
 
