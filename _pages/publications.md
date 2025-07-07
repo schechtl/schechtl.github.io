@@ -8,6 +8,8 @@ classes: wide
 
 #### 2025
 
+Tisch, Daria/Schechtl, Manuel (2025): The Gender (Tax) Gap in Parental Transfers. Evidence from Administrative Inheritance and Gift Tax Data, **Socio-Economic Review**, 23(2), 671-694. doi: [10.1093/ser/mwae038](https://doi.org/10.1093/ser/mwae038) | [PDF](/assets/schechtl_gender_tax_gap.pdf)
+
 O'Brien, Rourke/Schechtl, Manuel/Manduca, Robert/Venkataramani, Atheendar (2025): Local government expenditure centralization and spatial variation in working-age mortality, **SSM Population Health**, 30, 101791. doi: [10.1016/j.ssmph.2025.101791](https://doi.org/10.1016/j.ssmph.2025.101791) | [PDF](/assets/Schechtl_SSMPH_Centralization_Mortality.pdf)
 
 O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2025): Fiscal Centralization and Inequality in Children’s Economic Mobility, **American Sociological Review**, 90(1), 114-141. doi: [10.1177/00031224241303459](https://doi.org/10.1177/00031224241303459) | [PDF](/assets/Schechtl_2025_fiscal_centralization.pdf)
@@ -17,8 +19,6 @@ Schechtl, Manuel/Haupt, Andreas (2025): The payroll tax contribution limit and w
 #### 2024
 
 Schechtl, Manuel/O'Brien, Rourke (2024): Municipal Police and the Economic Mobility Gap Between Black and White Males in the U.S., **Research in Social Stratification and Mobility**, 93, 100981. doi: [10.1016/j.rssm.2024.100981](https://doi.org/10.1016/j.rssm.2024.100981) | [PDF](/assets/Schechtl_municipal_police_mobility.pdf)
-
-Tisch, Daria/Schechtl, Manuel (2024): The Gender (Tax) Gap in Parental Transfers. Evidence from Administrative Inheritance and Gift Tax Data, **Socio-Economic Review**, 1-24. doi: [10.1093/ser/mwae038](https://doi.org/10.1093/ser/mwae038) | [PDF](/assets/Schechtl_the_gender_tax_gap_in_parental_transfers.pdf)
 
 Schechtl, Manuel/O'Brien, Rourke (2024): Fiscal Impoverishment in Rich Democracies, in: **Social Forces**, 102(4), 1249-1268. doi: [10.1093/sf/soad133](https://doi.org/10.1093/sf/soad133) | [PDF](/assets/Schechtl_Fiscal impoverishment in rich democracies.pdf)
 
