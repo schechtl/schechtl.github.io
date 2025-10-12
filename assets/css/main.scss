@@ -66,38 +66,20 @@ code, pre, kbd, samp { font-family: $mono-font-family; }
 }
 
 
-/* === Force masthead site title to use the same font as page titles === */
-a.site-title,
+/* TEMP: prove we're selecting the site title (remove after) */
+.site-title { outline: 1px solid red !important; }
+
+/* Force masthead site title to use the same font as page titles */
 .site-title,
-.masthead a.site-title,
 .masthead .site-title,
-.masthead__inner-wrap a.site-title,
-.masthead__inner-wrap .site-title,
-.greedy-nav a.site-title,
 .greedy-nav .site-title,
-.greedy-nav .site-title span,
-.masthead .site-title span {
-  font-family: "Merriweather", Georgia, serif !important;
-  font-weight: 800 !important;   /* set to the SAME weight your <h1> uses (often 700 or 800) */
+.greedy-nav a.site-title,
+.masthead__inner-wrap .site-title {
+  font-family: "Merriweather", Georgia, serif !important;  /* same as h1 */
+  font-weight: 700 !important;   /* change to 800 if your <h1> uses 800 */
   font-style: normal !important;
-  letter-spacing: normal !important;
   text-transform: none !important;
+  letter-spacing: normal !important;
   line-height: 1.2 !important;
-  font-size: 1.45rem !important; /* adjust to taste */
+  font-size: 1.45rem !important; /* adjust size to taste */
 }
-
-@media (min-width: 768px) {
-  .greedy-nav a.site-title,
-  .greedy-nav .site-title { font-size: 1.55rem !important; }
-}
-@media (min-width: 992px) {
-  .greedy-nav a.site-title,
-  .greedy-nav .site-title { font-size: 1.6rem !important; }
-}
-
-
-/* TEMP: prove we're targeting the exact element */
-header.masthead .masthead__inner-wrap nav.greedy-nav > a.site-title {
-  outline: 1px solid red !important; /* remove once confirmed */
-}
-
