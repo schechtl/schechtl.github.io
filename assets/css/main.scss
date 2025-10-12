@@ -94,3 +94,10 @@ a.site-title,
   .greedy-nav a.site-title,
   .greedy-nav .site-title { font-size: 1.6rem !important; }
 }
+
+
+/* TEMP: prove we're targeting the exact element */
+header.masthead .masthead__inner-wrap nav.greedy-nav > a.site-title {
+  outline: 1px solid red !important; /* remove once confirmed */
+}
+
