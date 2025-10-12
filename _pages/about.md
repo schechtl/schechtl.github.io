@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-I am an Assistant Professor in the Department of Public Policy at the University of North Carolina at Chapel Hill.
+I am an Assistant Professor in the Department of Public Policy at the University of North Carolina at Chapel Hill and a Faculty Felow at the Carolina Population Center.
 
 I am a social demographer studying the creation, persistence, and reproduction of inequality, poverty, and mobility, with substantive interests in wealth and its intersection with public policy. My research encompasses the quantitative analysis of survey data, administrative records, and experimental data. My current work focuses on multiple facets of wealth inequality and accumulation, with a particular focus on the impact of inheritances and inheritance taxes. 
 
