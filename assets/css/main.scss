@@ -6,3 +6,9 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+// Your font overrides go below:
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+}
