@@ -1,12 +1,18 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
-$caption-font-family: $global-font-family !default;  // or set a specific stack
-
-
 @charset "utf-8";
 
-/* 2) Skin, then theme */
-@import "minimal-mistakes";
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+/* Your font variables */
+$global-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+  Roboto, "Helvetica Neue", Arial, sans-serif;
+$header-font-family: "Merriweather", Georgia, serif;
+$mono-font-family: "Fira Code", Consolas, "Lucida Console", monospace;
 
+/* Import your chosen skin and the theme */
+@import "minimal-mistakes/skins/dirt";
+@import "minimal-mistakes";
+
+/* Optional specificity helpers */
+body { font-family: $global-font-family; }
+h1,h2,h3,h4,h5,h6 { font-family: $header-font-family; }
+code, pre, kbd, samp { font-family: $mono-font-family; }
