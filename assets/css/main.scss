@@ -76,3 +76,34 @@ a.site-title,
   text-transform: none !important;
   font-size: 1.45rem !important;                /* keep your size; tweak as you like */
 }
+
+
+/* === Wider left (fixed) column === */
+@media (min-width: 992px) {
+  /* Make the sidebar wider */
+  .sidebar {
+    width: 340px !important;        /* try 320–380px to taste */
+    max-width: 340px !important;
+    flex: 0 0 340px !important;      /* prevents flex shrinking */
+  }
+
+  /* Ensure the main content takes the remaining space */
+  .page,
+  .archive {
+    display: flex;                   /* align sidebar + content horizontally */
+    gap: 0;                          /* remove accidental extra spacing */
+  }
+
+  /* The content column flexes */
+  .page__content,
+  .archive .entries {
+    flex: 1 1 auto;
+    max-width: none;                 /* uncap width so it can grow */
+  }
+
+  /* Some layouts add left margins—neutralize them */
+  .page__inner-wrap,
+  .initial-content {
+    margin-left: 0 !important;
+  }
+}
