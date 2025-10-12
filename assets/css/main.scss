@@ -65,18 +65,24 @@ code, pre, kbd, samp { font-family: $mono-font-family; }
   padding: 0 !important;
 }
 
-/* === Slightly larger (subtle) site title === */
+
+/* === Make masthead site title match page title font === */
 .greedy-nav a.site-title,
 .greedy-nav .site-title,
 .masthead a.site-title,
 .masthead .site-title,
 .masthead__inner-wrap a.site-title,
 .masthead__inner-wrap .site-title {
-  font-size: 1.35rem !important;
+  /* Use the same stack as h1 page titles */
+  font-family: "Merriweather", Georgia, serif !important;
+
+  /* Modest size so it doesn't overpower */
+  font-size: 1.4rem !important;      /* tweak to taste */
   line-height: 1.2 !important;
-  font-weight: 600 !important;   /* a touch lighter than 700 */
-  font-family: $header-font-family !important;
-  letter-spacing: 0.2px;
+  font-weight: 700 !important;        /* page titles are typically bold */
+  font-style: normal !important;
+  text-transform: none !important;    /* avoid all-caps differences */
+  letter-spacing: normal !important;  /* align with h1 tracking */
 }
 
 @media (min-width: 768px) {
