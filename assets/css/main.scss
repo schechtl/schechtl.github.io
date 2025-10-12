@@ -83,3 +83,10 @@ code, pre, kbd, samp { font-family: $mono-font-family; }
   line-height: 1.2 !important;
   font-size: 1.45rem !important; /* adjust size to taste */
 }
+
+
+/* Last-resort catch-all */
+a.site-title { 
+  font-family: "Merriweather", Georgia, serif !important; 
+  font-weight: 700 !important; 
+}
