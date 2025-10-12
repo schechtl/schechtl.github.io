@@ -29,8 +29,12 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $garamond !default;
-$header-font-family: $garamond !default;
+$global-font-family: "Inter", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+$header-font-family: "Merriweather", Georgia, serif;
+$mono-font-family: "Fira Code", monospace;
+
+/*$global-font-family: $garamond !default;
+/*$header-font-family: $garamond !default;
 $caption-font-family: $garamond !default;
 
 /* type scale */
