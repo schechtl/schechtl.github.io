@@ -69,7 +69,7 @@ author:
 
     - label: "OSF"
       # Works with Academicons 1.9.4; if square doesn’t render for you, use "ai ai-osf"
-      icon: "ai ai-osf-square"
+      icon: "ai ai-osf"
       url: "https://osf.io/pwuh4"
 
     - label: "Google Scholar"
