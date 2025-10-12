@@ -63,20 +63,28 @@ author:
   bio    : ""
   links:
     - label: "Bluesky"
-      icon: "fab fa-fw fa-twitter-square"
+      # Font Awesome 5 doesn't have Bluesky; keep Twitter square or a link icon as a placeholder.
+      icon: "fab fa-twitter-square"
       url: "https://bsky.app/profile/schechtlm.bsky.social"
+
     - label: "OSF"
+      # Works with Academicons 1.9.4; if square doesn’t render for you, use "ai ai-osf"
       icon: "ai ai-osf-square"
-      url: "https://osf.io/pwuh4"      
+      url: "https://osf.io/pwuh4"
+
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
+      # Use the base icon (square variant sometimes missing in older skins)
+      icon: "ai ai-google-scholar"
       url: "https://scholar.google.de/citations?user=hNr5g7EAAAAJ&hl=de&oi=ao"
+
     - label: "ORCID"
-      icon: "fab fa-orcid"
-      url: " https://orcid.org/0000-0002-1338-6833"  
+      icon: "ai ai-orcid"        # Prefer the Academicons ORCID mark over Font Awesome
+      url: "https://orcid.org/0000-0002-1338-6833"
+
     - label: "Institutional website"
       icon: "fa fa-link"
       url: "https://publicpolicy.unc.edu/person/schechtl-manuel/"
+
 
 footer:
   links:
