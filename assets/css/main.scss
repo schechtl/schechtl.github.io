@@ -66,22 +66,38 @@ code, pre, kbd, samp { font-family: $mono-font-family; }
 }
 
 
-/* === Bigger site title in masthead (left) === */
+/* === Bigger site title at top-left (masthead only) === */
+.greedy-nav a.site-title,
+.greedy-nav .site-title,
+.masthead a.site-title,
 .masthead .site-title,
-.greedy-nav .site-title {
-  font-size: 1.35rem;           /* bump on phones */
-  line-height: 1.2;
-  font-weight: 700;             /* keep bold; change to 600 if you prefer */
-  font-family: $header-font-family; /* matches your heading font */
-  letter-spacing: 0.2px;        /* optional: subtle polish */
+.masthead__inner-wrap a.site-title,
+.masthead__inner-wrap .site-title {
+  font-size: 1.75rem !important;   /* bump base size */
+  line-height: 1.1 !important;
+  font-weight: 700 !important;      /* keep bold; try 600 if too heavy */
+  font-family: $header-font-family !important;
+  letter-spacing: 0.2px;            /* subtle polish */
 }
 
-/* scale up on wider screens */
+/* Scale up on wider screens */
 @media (min-width: 768px) {
+  .greedy-nav a.site-title,
+  .greedy-nav .site-title,
+  .masthead a.site-title,
   .masthead .site-title,
-  .greedy-nav .site-title { font-size: 1.55rem; }
+  .masthead__inner-wrap a.site-title,
+  .masthead__inner-wrap .site-title {
+    font-size: 1.95rem !important;
+  }
 }
 @media (min-width: 992px) {
+  .greedy-nav a.site-title,
+  .greedy-nav .site-title,
+  .masthead a.site-title,
   .masthead .site-title,
-  .greedy-nav .site-title { font-size: 1.75rem; }
+  .masthead__inner-wrap a.site-title,
+  .masthead__inner-wrap .site-title {
+    font-size: 2.1rem !important;
+  }
 }
