@@ -38,3 +38,29 @@ code, pre, kbd, samp { font-family: $mono-font-family; }
   object-fit: cover;            /* tidy crop if not square */
   display: block;
 }
+
+
+/* ==== Remove avatar frame/ring/shadow ==== */
+.author__avatar {
+  background: none !important;
+  border: 0 !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+}
+
+/* Some skins add the ring via a pseudo-element */
+.author__avatar::before,
+.author__avatar::after {
+  display: none !important;
+  content: none !important;
+}
+
+/* Ensure the image itself has no border/shadow */
+.author__avatar img,
+.sidebar .author__avatar img,
+.page__hero .author__avatar img {
+  border: 0 !important;
+  box-shadow: none !important;
+  background: none !important;
+}
+
