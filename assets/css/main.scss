@@ -16,3 +16,19 @@ $mono-font-family: "Fira Code", Consolas, "Lucida Console", monospace;
 body { font-family: $global-font-family; }
 h1,h2,h3,h4,h5,h6 { font-family: $header-font-family; }
 code, pre, kbd, samp { font-family: $mono-font-family; }
+
+
+/* --- Headshot (author profile) size overrides --- */
+/* Minimal Mistakes uses .author__avatar and .author__avatar img */
+.author__avatar {
+  /* Let the image control its own size */
+  width: auto;
+}
+
+.author__avatar img {
+  /* Pick your preferred size */
+  width: 160px;         /* try 160–220px */
+  height: 160px;        /* keep square; remove if you prefer natural ratio */
+  object-fit: cover;    /* crop to fill the square cleanly */
+  border-radius: 50%;   /* keep the circular look */
+}
