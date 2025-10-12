@@ -1,19 +1,14 @@
 ---
 permalink: /datenschutzerklärung/
-title: "Datenschutzerklärung"
+title: "Terms of use"
 ---
 
 Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) im Rahmen der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 
 ## Verantwortlicher
 Manuel Schechtl   
-Humboldt-Universität zu Berlin  
-Institut für Sozialwissenschaften  
-Unter den Linden 6  
-10099 Berlin  
-Deutschland  
 
-E-mailadresse: manuel.schechtl [at] hu-berlin.de
+E-mailadresse: schechtl [at] unc.edu
 
 ## Arten der verarbeiteten Daten
 – Bestandsdaten (z.B., Personen-Stammdaten, Namen oder Adressen).
