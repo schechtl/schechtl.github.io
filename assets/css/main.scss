@@ -64,3 +64,24 @@ code, pre, kbd, samp { font-family: $mono-font-family; }
   filter: none !important;
   padding: 0 !important;
 }
+
+
+/* === Bigger site title in masthead (left) === */
+.masthead .site-title,
+.greedy-nav .site-title {
+  font-size: 1.35rem;           /* bump on phones */
+  line-height: 1.2;
+  font-weight: 700;             /* keep bold; change to 600 if you prefer */
+  font-family: $header-font-family; /* matches your heading font */
+  letter-spacing: 0.2px;        /* optional: subtle polish */
+}
+
+/* scale up on wider screens */
+@media (min-width: 768px) {
+  .masthead .site-title,
+  .greedy-nav .site-title { font-size: 1.55rem; }
+}
+@media (min-width: 992px) {
+  .masthead .site-title,
+  .greedy-nav .site-title { font-size: 1.75rem; }
+}
