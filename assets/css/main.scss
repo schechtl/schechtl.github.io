@@ -65,14 +65,14 @@ code, pre, kbd, samp { font-family: $mono-font-family; }
   padding: 0 !important;
 }
 
-/* Make masthead site title match page-title font */
-a.site-title {
-  font-family: $header-font-family !important;  /* same stack as h1 */
-  font-weight: 700 !important;                  /* use 800 if your <h1> is 800 */
-  font-style: normal !important;
+/* Masthead site title — non-bold */
+a.site-title,
+.masthead .site-title,
+.greedy-nav .site-title {
+  font-family: $global-font-family !important;  /* Inter */
+  font-weight: 400 !important;                  /* regular, not bold */
+  line-height: 1.2 !important;
   letter-spacing: normal !important;
   text-transform: none !important;
-  line-height: 1.2 !important;
-  font-size: 1.45rem !important;                /* tweak size to taste */
+  font-size: 1.45rem !important;                /* keep your size; tweak as you like */
 }
-
