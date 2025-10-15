@@ -8,6 +8,8 @@ classes: wide
 
 #### 2025
 
+Schechtl, Manuel: The association between childhood exposure to local wealth inequality and intergenerational income mobility in the United States, in: **Nature Communications**, 16, 9164. doi: [10.1038/s41467-025-64222-3](https://doi.org/10.1038/s41467-025-64222-3) | [PDF](/assets/Schechtl_local_wealth_inequality_and_income_mobility.pdf)
+
 Tisch, Daria/Schechtl, Manuel (2025): The Gender (Tax) Gap in Parental Transfers. Evidence from Administrative Inheritance and Gift Tax Data, **Socio-Economic Review**, 23(2), 671-694. doi: [10.1093/ser/mwae038](https://doi.org/10.1093/ser/mwae038) | [PDF](/assets/schechtl_gender_tax_gap.pdf)
 
 O'Brien, Rourke/Schechtl, Manuel/Manduca, Robert/Venkataramani, Atheendar (2025): Local government expenditure centralization and spatial variation in working-age mortality, **SSM Population Health**, 30, 101791. doi: [10.1016/j.ssmph.2025.101791](https://doi.org/10.1016/j.ssmph.2025.101791) | [PDF](/assets/Schechtl_SSMPH_Centralization_Mortality.pdf)
@@ -41,8 +43,6 @@ Kapelle, Nicole/Nutz, Theresa/Tisch, Daria/Schechtl, Manuel/Lersch, Philipp M./S
 
 
 ## Working Papers
-
-Schechtl, Manuel: Wealth Inequality and Intergenerational Income Mobility in the United States, in: *OSF Preprints*, March 20. doi: [10.31219/osf.io/yjvru](https://doi.org/10.31219/osf.io/yjvru) | [PDF](/assets/schechtl_wealth_inequality_income_mobility_WP_v1.pdf)
 
 Morelli, Salvatore, Asher, Twisha, Di Biase, Frincasco, Disslbacher, Franziska, Flores, Ignacio, Johnson, Adam, Rella, Giacomo, Schechtl, Manuel, Subioli, Francesca, Targa, Matteo: The GC Wealth Project Data Warehouse v.1 – Documentation, *Stone Center Working Paper Series*, No. 75, doi: [10.31235/osf.io/ta67n](https://doi.org/10.31235/osf.io/ta67n) | [PDF](/assets/Schechtl_gcwealth_documentation.pdf)
 
