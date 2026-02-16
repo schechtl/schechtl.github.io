@@ -6,6 +6,10 @@ classes: wide
 
 ## Journal Articles
 
+#### 2026
+
+Trinh, Nhat An/Tisch, Daria/Schechtl, Manuel: The (in)appropriateness of unequal division: a factorial survey experiment on wealth transfers within families, in: **Social Forces**, 1-22. doi: [10.1093/sf/soag010](https://doi.org/10.1093/sf/soag010) | [PDF](/assets/Schechtl_inappropriateness of unequal division.pdf)
+
 #### 2025
 
 Schechtl, Manuel: The association between childhood exposure to local wealth inequality and intergenerational income mobility in the United States, in: **Nature Communications**, 16, 9164. doi: [10.1038/s41467-025-64222-3](https://doi.org/10.1038/s41467-025-64222-3) | [PDF](/assets/Schechtl_local_wealth_inequality_and_income_mobility.pdf)
