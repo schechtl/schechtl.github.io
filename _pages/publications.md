@@ -8,11 +8,13 @@ classes: wide
 
 #### 2026
 
-Trinh, Nhat An/Tisch, Daria/Schechtl, Manuel: The (in)appropriateness of unequal division: a factorial survey experiment on wealth transfers within families, in: **Social Forces**, 1-22. doi: [10.1093/sf/soag010](https://doi.org/10.1093/sf/soag010) | [PDF](/assets/Schechtl_inappropriateness of unequal division.pdf)
+Cheng, Haiyi/Schechtl, Manuel (2026): Financial Assets and Cardiometabolic Risk in Early Adulthood: Evidence from Add Health, in: **Social Science & Medicine**, 119006. doi: [10.1016/j.socscimed.2026.119006](https://doi.org/10.1016/j.socscimed.2026.119006) 
+
+Trinh, Nhat An/Tisch, Daria/Schechtl, Manuel (2026): The (in)appropriateness of unequal division: a factorial survey experiment on wealth transfers within families, in: **Social Forces**, 1-22. doi: [10.1093/sf/soag010](https://doi.org/10.1093/sf/soag010) | [PDF](/assets/Schechtl_inappropriateness of unequal division.pdf)
 
 #### 2025
 
-Schechtl, Manuel: The association between childhood exposure to local wealth inequality and intergenerational income mobility in the United States, in: **Nature Communications**, 16, 9164. doi: [10.1038/s41467-025-64222-3](https://doi.org/10.1038/s41467-025-64222-3) | [PDF](/assets/Schechtl_local_wealth_inequality_and_income_mobility.pdf)
+Schechtl, Manuel (2025): The association between childhood exposure to local wealth inequality and intergenerational income mobility in the United States, in: **Nature Communications**, 16, 9164. doi: [10.1038/s41467-025-64222-3](https://doi.org/10.1038/s41467-025-64222-3) | [PDF](/assets/Schechtl_local_wealth_inequality_and_income_mobility.pdf)
 
 Tisch, Daria/Schechtl, Manuel (2025): The Gender (Tax) Gap in Parental Transfers. Evidence from Administrative Inheritance and Gift Tax Data, **Socio-Economic Review**, 23(2), 671-694. doi: [10.1093/ser/mwae038](https://doi.org/10.1093/ser/mwae038) | [PDF](/assets/schechtl_gender_tax_gap.pdf)
 
