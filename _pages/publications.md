@@ -8,7 +8,7 @@ classes: wide
 
 #### 2026
 
-Cheng, Haiyi/Schechtl, Manuel (2026): Financial Assets and Cardiometabolic Risk in Early Adulthood: Evidence from Add Health, in: **Social Science & Medicine**, 396, 119006. doi: [10.1016/j.socscimed.2026.119006](https://doi.org/10.1016/j.socscimed.2026.119006) | [PDF](/assets/Schechtl_financial_assets_and_cardiometabolic_risk.pdf)
+Cheng, Haiyi/Schechtl, Manuel (2026): Financial Assets and Cardiometabolic Risk in Early Adulthood: Evidence from Add Health, in: **Social Science & Medicine**, 396, 119006. doi: [10.1016/j.socscimed.2026.119006](https://doi.org/10.1016/j.socscimed.2026.119006) | [PDF](assets/Schechtl_financial_assets_and_cardiometabolic_risk.pdf)
 
 Trinh, Nhat An/Tisch, Daria/Schechtl, Manuel (2026): The (in)appropriateness of unequal division: a factorial survey experiment on wealth transfers within families, in: **Social Forces**, 1-22. doi: [10.1093/sf/soag010](https://doi.org/10.1093/sf/soag010) | [PDF](/assets/Schechtl_inappropriateness of unequal division.pdf)
 
