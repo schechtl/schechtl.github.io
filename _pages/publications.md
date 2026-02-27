@@ -50,6 +50,8 @@ Kapelle, Nicole/Nutz, Theresa/Tisch, Daria/Schechtl, Manuel/Lersch, Philipp M./S
 
 ## Working Papers
 
+Schechtl, Manuel/Torche, Florencia: Changing Opportunity: Rising Local Wealth Inequality and Growing Class Gaps in Income Mobility, *OSF Preprint*, doi: [10.31235/osf.io/k6bny_v1](https://doi.org/10.31235/osf.io/k6bny_v1) | [PDF](/assets/schechtl_torche_wealth_inequality_mobility_full_WP.pdf) 
+
 Morelli, Salvatore, Asher, Twisha, Di Biase, Frincasco, Disslbacher, Franziska, Flores, Ignacio, Johnson, Adam, Rella, Giacomo, Schechtl, Manuel, Subioli, Francesca, Targa, Matteo: The GC Wealth Project Data Warehouse v.1 – Documentation, *Stone Center Working Paper Series*, No. 75, doi: [10.31235/osf.io/ta67n](https://doi.org/10.31235/osf.io/ta67n) | [PDF](/assets/Schechtl_gcwealth_documentation.pdf)
 
 Schechtl, Manuel: Inheritance Taxation in Comparative Perspective, in: *LWS Working Paper Series*, No. 35. | [PDF](/assets/Schechtl_Inheritance Taxation in Comparative Perspective.pdf)
