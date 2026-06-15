@@ -12,7 +12,7 @@ Schechtl, Manuel/Torche, Florencia (2026): Changing Opportunity: Rising Local We
 
 Schechtl, Manuel (2026): Childhood exposure to local wealth inequality, economic isolation in schools, and inter-class social ties in adulthood, in: **Social Science Research**, 136, 103355. doi: [10.1016/j.ssresearch.2026.103355](https://doi.org/10.1016/j.ssresearch.2026.103355) | [PDF](/assets/Schechtl_wealth_inequality_social_ties.pdf)
 
-Morelli, Salvatore/Longmuir, Maximilian/Disslbacher, Franziska/Di Biase, Frincasco/Rella, Giacomo/Subioli, Francesca/Rego Johnson, Adam/Targa, Matteo/Rapp, Severin/Schechtl, Manuel/Asher, Twisha/Giangregorio, Luca/Flores, Ignacio: Wealth Composition, Distribution, and Transmission: The Graduate Center Wealth Project Data Warehouse, **Scientific Data**. doi: [10.1038/s41597-026-07105-6](https://doi.org/10.1038/s41597-026-07105-6) | [PDF](/assets/Schechtl_gcwealth_documentation.pdf)
+Morelli, Salvatore/Longmuir, Maximilian/Disslbacher, Franziska/Di Biase, Frincasco/Rella, Giacomo/Subioli, Francesca/Rego Johnson, Adam/Targa, Matteo/Rapp, Severin/Schechtl, Manuel/Asher, Twisha/Giangregorio, Luca/Flores, Ignacio: Wealth Composition, Distribution, and Transmission: The Graduate Center Wealth Project Data Warehouse, **Scientific Data**. doi: [10.1038/s41597-026-07105-6](https://doi.org/10.1038/s41597-026-07105-6) | [PDF](/assets/Schechtl_gc_wealth_project.pdf)
 
 Cheng, Haiyi/Schechtl, Manuel (2026): Financial Assets and Cardiometabolic Risk in Early Adulthood: Evidence from Add Health, in: **Social Science & Medicine**, 396, 119006. doi: [10.1016/j.socscimed.2026.119006](https://doi.org/10.1016/j.socscimed.2026.119006) | [PDF](/assets/Schechtl_financial_assets_and_cardiometabolic_risk.pdf)
 
