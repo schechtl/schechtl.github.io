@@ -8,11 +8,11 @@ classes: wide
 
 #### 2026
 
-Schechtl, Manuel/Torche, Florencia (2026): Changing Opportunity: Rising Local Wealth Inequality and Growing Class Gaps in Income Mobility, **Sociological Science**, 13, 645-660. doi: [10.15195/v13.a25](https://doi.org/10.15195/v13.a25) | [PDF](/assets/Schechtl_changing_opportunity.pdf) 
+Schechtl, Manuel/Torche, Florencia (2026): Changing Opportunity: Rising Local Wealth Inequality and Growing Class Gaps in Income Mobility, in: **Sociological Science**, 13, 645-660. doi: [10.15195/v13.a25](https://doi.org/10.15195/v13.a25) | [PDF](/assets/Schechtl_changing_opportunity.pdf) 
 
 Schechtl, Manuel (2026): Childhood exposure to local wealth inequality, economic isolation in schools, and inter-class social ties in adulthood, in: **Social Science Research**, 136, 103355. doi: [10.1016/j.ssresearch.2026.103355](https://doi.org/10.1016/j.ssresearch.2026.103355) | [PDF](/assets/Schechtl_wealth_inequality_social_ties.pdf)
 
-Morelli, Salvatore/Longmuir, Maximilian/Disslbacher, Franziska/Di Biase, Frincasco/Rella, Giacomo/Subioli, Francesca/Rego Johnson, Adam/Targa, Matteo/Rapp, Severin/Schechtl, Manuel/Asher, Twisha/Giangregorio, Luca/Flores, Ignacio: Wealth Composition, Distribution, and Transmission: The Graduate Center Wealth Project Data Warehouse, **Scientific Data**, 13, 774. doi: [10.1038/s41597-026-07105-6](https://doi.org/10.1038/s41597-026-07105-6) | [PDF](/assets/Schechtl_gc_wealth_project.pdf)
+Morelli, Salvatore/Longmuir, Maximilian/Disslbacher, Franziska/Di Biase, Frincasco/Rella, Giacomo/Subioli, Francesca/Rego Johnson, Adam/Targa, Matteo/Rapp, Severin/Schechtl, Manuel/Asher, Twisha/Giangregorio, Luca/Flores, Ignacio: Wealth Composition, Distribution, and Transmission: The Graduate Center Wealth Project Data Warehouse, in: **Scientific Data**, 13, 774. doi: [10.1038/s41597-026-07105-6](https://doi.org/10.1038/s41597-026-07105-6) | [PDF](/assets/Schechtl_gc_wealth_project.pdf)
 
 Cheng, Haiyi/Schechtl, Manuel (2026): Financial Assets and Cardiometabolic Risk in Early Adulthood: Evidence from Add Health, in: **Social Science & Medicine**, 396, 119006. doi: [10.1016/j.socscimed.2026.119006](https://doi.org/10.1016/j.socscimed.2026.119006) | [PDF](/assets/Schechtl_financial_assets_and_cardiometabolic_risk.pdf)
 
@@ -22,17 +22,17 @@ Trinh, Nhat An/Tisch, Daria/Schechtl, Manuel (2026): The (in)appropriateness of 
 
 Schechtl, Manuel (2025): The association between childhood exposure to local wealth inequality and intergenerational income mobility in the United States, in: **Nature Communications**, 16, 9164. doi: [10.1038/s41467-025-64222-3](https://doi.org/10.1038/s41467-025-64222-3) | [PDF](/assets/Schechtl_local_wealth_inequality_and_income_mobility.pdf)
 
-Tisch, Daria/Schechtl, Manuel (2025): The Gender (Tax) Gap in Parental Transfers. Evidence from Administrative Inheritance and Gift Tax Data, **Socio-Economic Review**, 23(2), 671-694. doi: [10.1093/ser/mwae038](https://doi.org/10.1093/ser/mwae038) | [PDF](/assets/schechtl_gender_tax_gap.pdf)
+Tisch, Daria/Schechtl, Manuel (2025): The Gender (Tax) Gap in Parental Transfers. Evidence from Administrative Inheritance and Gift Tax Data, in: **Socio-Economic Review**, 23(2), 671-694. doi: [10.1093/ser/mwae038](https://doi.org/10.1093/ser/mwae038) | [PDF](/assets/schechtl_gender_tax_gap.pdf)
 
-O'Brien, Rourke/Schechtl, Manuel/Manduca, Robert/Venkataramani, Atheendar (2025): Local government expenditure centralization and spatial variation in working-age mortality, **SSM Population Health**, 30, 101791. doi: [10.1016/j.ssmph.2025.101791](https://doi.org/10.1016/j.ssmph.2025.101791) | [PDF](/assets/Schechtl_SSMPH_Centralization_Mortality.pdf)
+O'Brien, Rourke/Schechtl, Manuel/Manduca, Robert/Venkataramani, Atheendar (2025): Local government expenditure centralization and spatial variation in working-age mortality, in: **SSM Population Health**, 30, 101791. doi: [10.1016/j.ssmph.2025.101791](https://doi.org/10.1016/j.ssmph.2025.101791) | [PDF](/assets/Schechtl_SSMPH_Centralization_Mortality.pdf)
 
-O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2025): Fiscal Centralization and Inequality in Children’s Economic Mobility, **American Sociological Review**, 90(1), 114-141. doi: [10.1177/00031224241303459](https://doi.org/10.1177/00031224241303459) | [PDF](/assets/Schechtl_2025_fiscal_centralization.pdf)
+O'Brien, Rourke/Schechtl, Manuel/Parolin, Zachary (2025): Fiscal Centralization and Inequality in Children’s Economic Mobility, in: **American Sociological Review**, 90(1), 114-141. doi: [10.1177/00031224241303459](https://doi.org/10.1177/00031224241303459) | [PDF](/assets/Schechtl_2025_fiscal_centralization.pdf)
 
-Schechtl, Manuel/Haupt, Andreas (2025): The payroll tax contribution limit and women's labor market outcomes, **Journal of Marriage and Family**, 87, 617-635. doi: [10.1111/jomf.13055](https://doi.org/10.1111/jomf.13055) | [PDF](/assets/Schechtl_the payroll tax contribution limit and womens labor market outcomes.pdf)
+Schechtl, Manuel/Haupt, Andreas (2025): The payroll tax contribution limit and women's labor market outcomes, in: **Journal of Marriage and Family**, 87, 617-635. doi: [10.1111/jomf.13055](https://doi.org/10.1111/jomf.13055) | [PDF](/assets/Schechtl_the payroll tax contribution limit and womens labor market outcomes.pdf)
 
 #### 2024
 
-Schechtl, Manuel/O'Brien, Rourke (2024): Municipal Police and the Economic Mobility Gap Between Black and White Males in the U.S., **Research in Social Stratification and Mobility**, 93, 100981. doi: [10.1016/j.rssm.2024.100981](https://doi.org/10.1016/j.rssm.2024.100981) | [PDF](/assets/Schechtl_municipal_police_mobility.pdf)
+Schechtl, Manuel/O'Brien, Rourke (2024): Municipal Police and the Economic Mobility Gap Between Black and White Males in the U.S., in: **Research in Social Stratification and Mobility**, 93, 100981. doi: [10.1016/j.rssm.2024.100981](https://doi.org/10.1016/j.rssm.2024.100981) | [PDF](/assets/Schechtl_municipal_police_mobility.pdf)
 
 Schechtl, Manuel/O'Brien, Rourke (2024): Fiscal Impoverishment in Rich Democracies, in: **Social Forces**, 102(4), 1249-1268. doi: [10.1093/sf/soad133](https://doi.org/10.1093/sf/soad133) | [PDF](/assets/Schechtl_Fiscal impoverishment in rich democracies.pdf)
 
