@@ -74,7 +74,7 @@ author:
     - label: "Bluesky"
       # Font Awesome 5 doesn't have Bluesky; keep Twitter square or a link icon as a placeholder.
       icon: "fab fa-twitter-square"
-      url: "https://bsky.app/profile/schechtlm.bsky.social"
+      url: "https://bsky.app/profile/schechtlm.eurosky.social"
 
     - label: "OSF"
       # Works with Academicons 1.9.4; if square doesn’t render for you, use "ai ai-osf"
