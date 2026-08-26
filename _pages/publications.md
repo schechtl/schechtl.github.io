@@ -8,6 +8,8 @@ classes: wide
 
 #### 2026
 
+Schechtl, Manuel/O'Brien, Rourk/Blair, Elizabeth/Zang, Emma/Venkataramani, Atheendar (2026): Local wealth inequality and working-age mortality in U.S. counties, in **JAMA Health Forum**, forthcoming.
+
 Schechtl, Manuel/Torche, Florencia (2026): Changing Opportunity: Rising Local Wealth Inequality and Growing Class Gaps in Income Mobility, in: **Sociological Science**, 13, 645-660. doi: [10.15195/v13.a25](https://doi.org/10.15195/v13.a25) | [PDF](/assets/Schechtl_changing_opportunity.pdf) 
 
 Schechtl, Manuel (2026): Childhood exposure to local wealth inequality, economic isolation in schools, and inter-class social ties in adulthood, in: **Social Science Research**, 136, 103355. doi: [10.1016/j.ssresearch.2026.103355](https://doi.org/10.1016/j.ssresearch.2026.103355) | [PDF](/assets/Schechtl_wealth_inequality_social_ties.pdf)
@@ -54,6 +56,10 @@ Kapelle, Nicole/Nutz, Theresa/Tisch, Daria/Schechtl, Manuel/Lersch, Philipp M./S
 
 
 
-## Working Papers
+## Work in Progress
 
-Schechtl, Manuel: Inheritance Taxation in Comparative Perspective, in: *LWS Working Paper Series*, No. 35. | [PDF](/assets/Schechtl_Inheritance Taxation in Comparative Perspective.pdf)
+Schechtl, Manuel/O'Brien, Rourke: Local Wealth Concentration and the Rise of Special District Governments, in: **American Journal of Sociology**, *revise and resubmit*.
+
+Schechtl, Manuel/Gornick, Janet: Wealth Poverty: Measurement, Prevalence, Determinants, in: **Annual Review of Sociology**, *invited*.
+
+Schechtl, Manuel: Rising Wealth Inequality and Democratic Backsliding across U.S. States, in: **Socio-Economic Review**, *revise and resubmit*.
