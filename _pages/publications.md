@@ -8,7 +8,7 @@ classes: wide
 
 #### 2026
 
-Schechtl, Manuel/O'Brien, Rourk/Blair, Elizabeth/Zang, Emma/Venkataramani, Atheendar (2026): Local wealth inequality and working-age mortality in U.S. counties, in **JAMA Health Forum**, forthcoming.
+Schechtl, Manuel/O'Brien, Rourk/Blair, Elizabeth/Zang, Emma/Venkataramani, Atheendar (2026): Local wealth inequality and working-age mortality in U.S. counties, in **JAMA Health Forum**, forthcoming. | [PDF]() 
 
 Schechtl, Manuel/Torche, Florencia (2026): Changing Opportunity: Rising Local Wealth Inequality and Growing Class Gaps in Income Mobility, in: **Sociological Science**, 13, 645-660. doi: [10.15195/v13.a25](https://doi.org/10.15195/v13.a25) | [PDF](/assets/Schechtl_changing_opportunity.pdf) 
 
@@ -58,8 +58,8 @@ Kapelle, Nicole/Nutz, Theresa/Tisch, Daria/Schechtl, Manuel/Lersch, Philipp M./S
 
 ## Work in Progress
 
-Schechtl, Manuel/O'Brien, Rourke: Local Wealth Concentration and the Rise of Special District Governments, in: **American Journal of Sociology**, *revise and resubmit*.
+Schechtl, Manuel/O'Brien, Rourke: Local Wealth Concentration and the Rise of Special District Governments, in: **American Journal of Sociology**, *revise and resubmit*.  | [PDF]() 
 
-Schechtl, Manuel/Gornick, Janet: Wealth Poverty: Measurement, Prevalence, Determinants, in: **Annual Review of Sociology**, *invited*.
+Schechtl, Manuel/Gornick, Janet: Wealth Poverty: Measurement, Prevalence, Determinants, in: **Annual Review of Sociology**, *invited*.  | [PDF]() 
 
-Schechtl, Manuel: Rising Wealth Inequality and Democratic Backsliding across U.S. States, in: **Socio-Economic Review**, *revise and resubmit*.
+Schechtl, Manuel: Rising Wealth Inequality and Democratic Backsliding across U.S. States, in: **Socio-Economic Review**, *revise and resubmit*.  | [PDF]() 
