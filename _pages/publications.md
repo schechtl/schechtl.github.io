@@ -62,4 +62,6 @@ Kapelle, Nicole/Nutz, Theresa/Tisch, Daria/Schechtl, Manuel/Lersch, Philipp M./S
 
 Schechtl, Manuel/O'Brien, Rourke: Local Wealth Concentration and the Rise of Special District Governments, in: **American Journal of Sociology**, *revise and resubmit*.  | [PDF]() 
 
+O'Brien, Rourke/Wong, Jason/Schechtl, Manuel/Heisig, Jan Paul: Poverty as Translation: The Causal Architecture of Poverty and Health in Comparative Perspective, in: **American Journal of Sociology**, *revise and resubmit*.  | [PDF]() 
+
 Schechtl, Manuel/Gornick, Janet: Wealth Poverty: Measurement, Prevalence, Determinants, in: **Annual Review of Sociology**, *invited*.  | [PDF]() 
