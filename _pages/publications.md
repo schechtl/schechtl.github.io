@@ -8,7 +8,7 @@ classes: wide
 
 #### 2026
 
-Schechtl, Manuel/O'Brien, Rourk/Blair, Elizabeth/Zang, Emma/Venkataramani, Atheendar (2026): Local wealth inequality and working-age mortality in U.S. counties, in **JAMA Health Forum**, forthcoming. | [PDF]() 
+Schechtl, Manuel/O'Brien, Rourk/Blair, Elizabeth/Zang, Emma/Venkataramani, Atheendar (2026): Local wealth inequality and working-age mortality in U.S. counties, in **JAMA Health Forum**, 7(10), e263857. doi: [10.1001/jamahealthforum.2026.3857](https://doi.org/10.1001/jamahealthforum.2026.3857) | [PDF](/assets/Schechtl_2026_local_wealth_inequality_and_working_age_mortality.pdf) 
 
 Schechtl, Manuel: Rising Wealth Concentration and Democratic Backsliding across U.S. States, in: **Socio-Economic Review**, forthcoming. doi: [10.1093/ser/mwag058](https://doi.org/10.1093/ser/mwag058) | [PDF](/assets/schechtl_rising_wealth_concentration_and_democratic_backsliding.pdf) 
 
